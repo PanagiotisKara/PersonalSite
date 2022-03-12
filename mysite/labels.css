@@ -1,0 +1,22 @@
+﻿label {
+	display: block;
+	float: left;
+	width: 130px;
+	text-align: right;
+	margin-right: 10px;
+}
+form {
+	padding: 10px;
+	margin: 5px;
+}
+input {
+	width: 180px;
+	margin-top: 7px;
+}
+textarea {
+	height: 170px;
+}
+.submit {
+	width: 100px;
+	margin-left: 170px;
+}
